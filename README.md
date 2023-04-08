@@ -45,7 +45,9 @@
 `Приведите ответ в свободной форме........`
 
 ![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/3.png)`
+
 ![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/4.png)`
+
 ![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/5.png)`
 
 
