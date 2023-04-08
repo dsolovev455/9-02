@@ -27,6 +27,7 @@
 `Приведите ответ в свободной форме........`
 
 ![Название скриншота 1](https://github.com/dsolovev455/srlb-homework/blob/main/img/1.png)`
+
 ![Название скриншота 1](https://github.com/dsolovev455/srlb-homework/blob/main/img/2.png)`
 
 1. wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
