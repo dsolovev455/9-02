@@ -26,16 +26,16 @@
 
 `Приведите ответ в свободной форме........`
 
-![Название скриншота 1](https://github.com/dsolovev455/9-01/blob/main/img/1.png)`
-![Название скриншота 1](https://github.com/dsolovev455/9-01/blob/main/img/2.png)`
+![Название скриншота 1](https://github.com/dsolovev455/srlb-homework/blob/main/img/1.png)`
+![Название скриншота 1](https://github.com/dsolovev455/srlb-homework/blob/main/img/2.png)`
 
-wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
-dpkg -i zabbix-release_6.0-4+debian11_all.deb
-apt update
-apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
-sudo -u postgres createuser --pwprompt zabbix
-sudo -u postgres createdb -O zabbix zabbix
-zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+1. wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
+2. dpkg -i zabbix-release_6.0-4+debian11_all.deb
+3. apt update
+4. apt install zabbix-server-pgsql zabbix-frontend-php php7.4-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+5. sudo -u postgres createuser --pwprompt zabbix
+6. sudo -u postgres createdb -O zabbix zabbix
+7. zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
 
 
 ---
@@ -44,17 +44,17 @@ zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psq
 
 `Приведите ответ в свободной форме........`
 
-![Название скриншота 2](https://github.com/dsolovev455/9-01/blob/main/img/3.png)`
-![Название скриншота 2](https://github.com/dsolovev455/9-01/blob/main/img/4.png)`
-![Название скриншота 2](https://github.com/dsolovev455/9-01/blob/main/img/5.png)`
+![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/3.png)`
+![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/4.png)`
+![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/5.png)`
 
 
-wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
-dpkg -i zabbix-release_6.0-4+debian11_all.deb
-apt update
-apt install zabbix-agent
-systemctl restart zabbix-agent
-systemctl enable zabbix-agent
+1. wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
+2. dpkg -i zabbix-release_6.0-4+debian11_all.deb
+3. apt update
+4. apt install zabbix-agent
+5. systemctl restart zabbix-agent
+6. systemctl enable zabbix-agent
 
 
 
@@ -64,4 +64,4 @@ systemctl enable zabbix-agent
 
 `Приведите ответ в свободной форме........`
 
-![Название скриншота 2](https://github.com/dsolovev455/9-01/blob/main/img/6.png)`
+![Название скриншота 2](https://github.com/dsolovev455/srlb-homework/blob/main/img/6.png)`
